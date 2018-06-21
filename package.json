@@ -1,0 +1,11 @@
+{
+  "name": "bot-google-trends",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cross-env": "5.0.5",
+    "date-fns": "^1.29.0",
+    "google-trends-api": "^4.4.0",
+    "ramda": "^0.25.0"
+  }
+}
